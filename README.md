@@ -10,4 +10,4 @@
 - (2p) search (by the title of the post) 
 - (3p) deployment on Heroku
 - (3p) Docker Compose
-Summary points : 22
+#### Summary points : 22
