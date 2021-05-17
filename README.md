@@ -1,24 +1,12 @@
-# README
+# A simple blog is created using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Implemented features:
+- (5p) getting started
+- (2p) authentication by different users
+- (3p) authorization
+- (2p) filtering (posts by category)  
+- (2p) pagination
+- (2p) search (by the title of the post) 
+- (3p) deployment on Heroku
+- (3p) Docker Compose
+#### Summary points : 22
