@@ -1,6 +1,5 @@
-# README
+# A simple blog is created using Ruby on Rails
 
-## A simple blog is created using 
 ### Implemented features:
 - (5p) getting started
 - (2p) authentication by different users
