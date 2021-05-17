@@ -1,5 +1,5 @@
 current directory: /home/oleg/web_dev/blog_project/blog/vendor/bundle/ruby/2.7.0/gems/pg-1.2.3/ext
-/home/oleg/.rubies/ruby-2.7.3/bin/ruby -I /home/oleg/.rubies/ruby-2.7.3/lib/ruby/2.7.0 -r ./siteconf20210518-44836-8qmeb3.rb extconf.rb
+/home/oleg/.rubies/ruby-2.7.3/bin/ruby -I /home/oleg/.rubies/ruby-2.7.3/lib/ruby/2.7.0 -r ./siteconf20210518-45490-1koace9.rb extconf.rb
 checking for pg_config... no
 No pg_config... trying anyway. If building fails, please try again with
  --with-pg-config=/path/to/pg_config
