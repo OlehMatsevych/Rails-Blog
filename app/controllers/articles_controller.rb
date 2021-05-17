@@ -34,9 +34,14 @@ class ArticlesController < ApplicationController
     flash[:success] = "Article was deleted"
     redirect_to articles_path
   end
+  def search
+    @articles = Article.where("title LIKE ?", "%" + params[:search_param] + "%")
+  end
+
+
   private
     def article_params
-     params.require(:article).permit(:title, :description)
+     params.require(:article).permit(:title, :description, category_ids: [])
     end
     def set_article
      @article = Article.find(params[:id])
