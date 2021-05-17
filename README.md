@@ -1,7 +1,7 @@
 # README
 
 ## A simple blog is created using 
-###Implemented features:
+### Implemented features:
 - (5p) getting started
 - (2p) authentication by different users
 - (3p) authorization
