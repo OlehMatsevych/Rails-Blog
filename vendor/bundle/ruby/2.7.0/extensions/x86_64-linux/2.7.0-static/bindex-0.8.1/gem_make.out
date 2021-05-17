@@ -1,0 +1,15 @@
+current directory: /home/oleg/web_dev/blog_project/blog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/oleg/.rubies/ruby-2.7.3/bin/ruby -I /home/oleg/.rubies/ruby-2.7.3/lib/ruby/2.7.0 -r ./siteconf20210517-41648-1qmoeco.rb extconf.rb
+creating Makefile
+
+current directory: /home/oleg/web_dev/blog_project/blog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/oleg/web_dev/blog_project/blog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/oleg/web_dev/blog_project/blog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210517-41648-1n54vpu/skiptrace/internal
